@@ -1,7 +1,7 @@
 # Dividend
 
 ## Main Purpose
-How can we forecast dividend yield?
+Dividend data analysis
 
 ## Acquisition
 Gathering information using Selenium
@@ -20,3 +20,4 @@ Exploring & improving the data
 * Create interactive maps based on location and time
 
 ## Machine Learning
+How can we forecast dividend yield?
